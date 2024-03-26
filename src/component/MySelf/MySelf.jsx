@@ -13,8 +13,3 @@ const MySelf = ({ring}) => {
 
 export default MySelf;
 
-
-/**
- * 1.create a contaxt and export it.
- * 2.add provider for the context with value
- */

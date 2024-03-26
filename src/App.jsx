@@ -52,8 +52,3 @@ import Grandpa from './component/Grandpa/Grandpa'
 }
 
 export default App
-
-/**
- * 1.create a contaxt and export it.
- * 
- */
